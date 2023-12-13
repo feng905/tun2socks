@@ -41,7 +41,8 @@ func Errorf(format string, args ...any) {
 }
 
 func Fatalf(format string, args ...any) {
-	logrus.Fatalf(format, args...)
+	//logrus.Fatalf(format, args...)
+	logf(DebugLevel, format, args...)
 }
 
 func logf(level Level, format string, args ...any) {
