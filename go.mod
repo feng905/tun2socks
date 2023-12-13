@@ -1,6 +1,6 @@
-module github.com/xjasonlyu/tun2socks/v2
+module github.com/feng905/tun2socks/v2
 
-go 1.21.1
+go 1.20
 
 require (
 	github.com/docker/go-units v0.5.0

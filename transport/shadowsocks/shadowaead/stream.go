@@ -7,7 +7,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/xjasonlyu/tun2socks/v2/common/pool"
+	"github.com/feng905/tun2socks/v2/common/pool"
 )
 
 const (
