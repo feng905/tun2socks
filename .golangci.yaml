@@ -18,6 +18,6 @@ linters-settings:
     sections:
       - standard
       - default
-      - prefix(github.com/xjasonlyu/tun2socks)
+      - prefix(github.com/feng905/tun2socks)
   staticcheck:
     go: '1.21'
